@@ -1,1 +1,0 @@
-import{_ as e,o as t,g as i,h as r}from"./app.7f119ad7.js";const g=JSON.parse('{"title":"介绍","description":"","frontmatter":{},"headers":[],"relativePath":"guild/introduce.md"}'),s={name:"guild/introduce.md"},n=r("",5),a=[n];function o(p,c,d,_,l,m){return t(),i("div",null,a)}const h=e(s,[["render",o]]);export{g as __pageData,h as default};
