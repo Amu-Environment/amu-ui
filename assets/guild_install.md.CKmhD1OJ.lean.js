@@ -1,0 +1,1 @@
+import{_ as s,i as a,e as i,ai as n}from"./chunks/framework.gi9SYMJl.js";const g=JSON.parse('{"title":"安装","description":"","frontmatter":{},"headers":[],"relativePath":"guild/install.md","filePath":"guild/install.md"}'),l={name:"guild/install.md"},t=n("",6),e=[t];function p(h,k,d,r,E,c){return i(),a("div",null,e)}const u=s(l,[["render",p]]);export{g as __pageData,u as default};
